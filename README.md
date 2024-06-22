@@ -30,7 +30,8 @@ Follow these steps to clone the project from GitHub and run it locally on your s
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/akashchaurasia3870/MAUSAM-WEATHER-DETECTOR-.git
+
 cd weather-app
 
 npm install

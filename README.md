@@ -1,5 +1,7 @@
 # Weather App
 
+![Weather App Screenshot](src/assets/demo.png)
+
 A simple Weather App built with React and Vite that fetches weather data using a weather API and displays the current weather information for a searched city or the user's current location. The app uses React Context for state management.
 
 ## Features

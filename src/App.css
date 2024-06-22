@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&display=swap');
+
+
+.bg1{
+    background-image: linear-gradient(-225deg, #3D4E81 0%, #5753C9 48%, #6E7FF3 100%);
+}
+
+.bg2{
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+}
+
+.bg3{
+    background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+}
+
+.bg4{
+    background: #C9CCD3;
+ background-image: linear-gradient(-180deg, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
+ background-blend-mode: lighten;
+}
+
+.bg5{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+.bg6{
+    background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+}
+.bg7{
+    background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
+}
+
+.bg8{
+    background: linear-gradient(to bottom, #D5DEE7 0%, #E8EBF2 50%, #E2E7ED 100%), linear-gradient(to bottom, rgba(0,0,0,0.02) 50%, rgba(255,255,255,0.02) 61%, rgba(0,0,0,0.02) 73%), linear-gradient(33deg, rgba(255,255,255,0.20) 0%, rgba(0,0,0,0.20) 100%);
+ background-blend-mode: normal,color-burn;
+}
+
+.bg9{
+    background-image: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);
+}

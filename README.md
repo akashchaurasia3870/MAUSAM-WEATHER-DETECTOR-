@@ -51,7 +51,7 @@ weather-app/
 │   │   ├── Cards.jsx
 │   │   └── Search.jsx
 │   ├── Context/
-│   │   └── Weather.js
+│   │   └── Weather.jsx
 │   ├── App.jsx
 │   ├── index.css
 │   └── main.jsx
